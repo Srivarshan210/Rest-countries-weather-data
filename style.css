@@ -1,0 +1,7 @@
+.card:hover {
+    border: 3.5px solid rgba(104, 104, 205, 0.75);
+}
+
+.flag_img{
+    height: 100px;
+}
